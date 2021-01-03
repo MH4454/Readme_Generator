@@ -1,6 +1,10 @@
 # Readme Generator  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 
     This repo generates professional readmes for users who seek a good repo for their project.
+    
+# Demo:
+ ![demo gif](images/readme-demo.gif)
+ 
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
